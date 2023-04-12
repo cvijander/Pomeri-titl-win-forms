@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri titl\Pomeri titl\bin\Debug\net6.0-windows\Pomeri titl.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri titl\Pomeri titl\bin\Debug\net6.0-windows\Pomeri titl.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri titl\Pomeri titl\bin\Debug\net6.0-windows\Pomeri titl.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri titl\Pomeri titl\bin\Debug\net6.0-windows\Pomeri titl.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri titl\Pomeri titl\bin\Debug\net6.0-windows\Pomeri titl.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri titl\Pomeri titl\obj\Debug\net6.0-windows\Pomeri titl.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri titl\Pomeri titl\obj\Debug\net6.0-windows\Pomeri_titl.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri titl\Pomeri titl\obj\Debug\net6.0-windows\Pomeri titl.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri titl\Pomeri titl\obj\Debug\net6.0-windows\Pomeri titl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri titl\Pomeri titl\obj\Debug\net6.0-windows\Pomeri titl.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri titl\Pomeri titl\obj\Debug\net6.0-windows\Pomeri titl.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri titl\Pomeri titl\obj\Debug\net6.0-windows\Pomeri titl.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri titl\Pomeri titl\obj\Debug\net6.0-windows\Pomeri titl.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri titl\Pomeri titl\obj\Debug\net6.0-windows\refint\Pomeri titl.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri titl\Pomeri titl\obj\Debug\net6.0-windows\Pomeri titl.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri titl\Pomeri titl\obj\Debug\net6.0-windows\Pomeri titl.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri titl\Pomeri titl\obj\Debug\net6.0-windows\ref\Pomeri titl.dll
